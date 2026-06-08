@@ -5,4 +5,4 @@ date: 2023-12-01
 layout: "list"
 ---
 
-Welcome to my study stack — raw fragments, proofs, and quick simulations that eventually feed into papers or writing.
+Welcome to my website — raw fragments, proofs, and quick simulations that eventually feed into papers or writing.
